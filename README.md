@@ -2,6 +2,9 @@
 
 This app surfaces Polygon.io news for a stock symbol, scores each article with simple keyword heuristics, and charts the cumulative sentiment across the past two years plus the current day.
 
+![Example](https://github.com/hirokoclanger/sentiment-news-analysis/blob/bca66147b134574f60bc8704c97d9c4ce07a1481/public/ezgif-134f2312059b82.gif)
+
+
 ### Prerequisites
 
 - Node.js 18 or newer
